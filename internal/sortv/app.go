@@ -29,7 +29,7 @@ func findResourceDirectory() {
 func Init() {
 	findResourceDirectory()
 	ray.SetTraceLog(ray.LogError)
-	ray.InitWindow(1200, 800, "Sort Visualizer")
+	ray.InitWindow(1280, 720, "Sort Visualizer")
 	ray.SetExitKey(0)
 	ray.SetWindowState(ray.FlagWindowResizable)
 	ray.SetWindowPosition(100, 100)

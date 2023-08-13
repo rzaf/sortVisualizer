@@ -2,8 +2,8 @@ package sortv
 
 import (
 	"fmt"
+	"github.com/rzaf/sortVisualizer/pkg/core"
 	"math/rand"
-	"sv/pkg/core"
 
 	ray "github.com/gen2brain/raylib-go/raylib"
 )

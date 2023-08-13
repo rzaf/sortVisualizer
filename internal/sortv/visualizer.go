@@ -2,9 +2,9 @@ package sortv
 
 import (
 	"fmt"
+	"github.com/rzaf/sortVisualizer/pkg/algos"
+	"github.com/rzaf/sortVisualizer/pkg/core"
 	"math/rand"
-	"sv/pkg/algos"
-	"sv/pkg/core"
 	"time"
 
 	ray "github.com/gen2brain/raylib-go/raylib"

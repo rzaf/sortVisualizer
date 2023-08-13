@@ -1,4 +1,4 @@
-module sv
+module github.com/rzaf/sortVisualizer
 
 go 1.19
 
